@@ -1,6 +1,6 @@
 ## Weather Forecast App
 
-A weather forecast app built using React.js library and OpenWeatherAPIs has been used to fetch weather data. Live Preview: ([https://cheery-fudge-4c1fde.netlify.app/])
+A weather forecast app built using React.js library and OpenWeatherAPIs has been used to fetch weather data. Live Preview: [https://cheery-fudge-4c1fde.netlify.app/]
 
 #### Key points to note:
 
