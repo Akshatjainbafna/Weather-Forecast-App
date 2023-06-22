@@ -5,7 +5,7 @@ A weather forecast app built using React.js library and OpenWeatherAPIs have bee
 #### Key points to note:
 
 - Data has been managed using Context API and useReducer Hook.
-- One-call API has been used to fetch the hourly data weather of next 8 Days and current weather for the current weather of the place.
+- One-call API has been used to fetch the hourly data weather of next 8 Days and current weather & city from the Weather API.
 - Font awesome icons and Google fonts are used for asethetics.
 
 
